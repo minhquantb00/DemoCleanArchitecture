@@ -1,0 +1,17 @@
+D:\New folder\DemoApiDotNet.Api\DemoApiDotNet.Infrastructure\bin\Debug\net6.0\DemoApiDotNet.Infrastructure.deps.json
+D:\New folder\DemoApiDotNet.Api\DemoApiDotNet.Infrastructure\bin\Debug\net6.0\DemoApiDotNet.Infrastructure.runtimeconfig.json
+D:\New folder\DemoApiDotNet.Api\DemoApiDotNet.Infrastructure\bin\Debug\net6.0\DemoApiDotNet.Infrastructure.dll
+D:\New folder\DemoApiDotNet.Api\DemoApiDotNet.Infrastructure\bin\Debug\net6.0\DemoApiDotNet.Infrastructure.pdb
+D:\New folder\DemoApiDotNet.Api\DemoApiDotNet.Infrastructure\bin\Debug\net6.0\DemoApiDotNet.Domain.dll
+D:\New folder\DemoApiDotNet.Api\DemoApiDotNet.Infrastructure\bin\Debug\net6.0\DemoApiDotNet.Domain.pdb
+D:\New folder\DemoApiDotNet.Api\DemoApiDotNet.Infrastructure\obj\Debug\net6.0\DemoApiDotNet.Infrastructure.csproj.AssemblyReference.cache
+D:\New folder\DemoApiDotNet.Api\DemoApiDotNet.Infrastructure\obj\Debug\net6.0\DemoApiDotNet.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+D:\New folder\DemoApiDotNet.Api\DemoApiDotNet.Infrastructure\obj\Debug\net6.0\DemoApiDotNet.Infrastructure.AssemblyInfoInputs.cache
+D:\New folder\DemoApiDotNet.Api\DemoApiDotNet.Infrastructure\obj\Debug\net6.0\DemoApiDotNet.Infrastructure.AssemblyInfo.cs
+D:\New folder\DemoApiDotNet.Api\DemoApiDotNet.Infrastructure\obj\Debug\net6.0\DemoApiDotNet.Infrastructure.csproj.CoreCompileInputs.cache
+D:\New folder\DemoApiDotNet.Api\DemoApiDotNet.Infrastructure\obj\Debug\net6.0\DemoApiDotNet.Infrastructure.csproj.CopyComplete
+D:\New folder\DemoApiDotNet.Api\DemoApiDotNet.Infrastructure\obj\Debug\net6.0\DemoApiDotNet.Infrastructure.dll
+D:\New folder\DemoApiDotNet.Api\DemoApiDotNet.Infrastructure\obj\Debug\net6.0\refint\DemoApiDotNet.Infrastructure.dll
+D:\New folder\DemoApiDotNet.Api\DemoApiDotNet.Infrastructure\obj\Debug\net6.0\DemoApiDotNet.Infrastructure.pdb
+D:\New folder\DemoApiDotNet.Api\DemoApiDotNet.Infrastructure\obj\Debug\net6.0\DemoApiDotNet.Infrastructure.genruntimeconfig.cache
+D:\New folder\DemoApiDotNet.Api\DemoApiDotNet.Infrastructure\obj\Debug\net6.0\ref\DemoApiDotNet.Infrastructure.dll

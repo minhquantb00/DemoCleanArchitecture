@@ -1,0 +1,11 @@
+D:\New folder\DemoApiDotNet.Api\DemoApiDotNet.Domain\bin\Debug\net6.0\DemoApiDotNet.Domain.deps.json
+D:\New folder\DemoApiDotNet.Api\DemoApiDotNet.Domain\bin\Debug\net6.0\DemoApiDotNet.Domain.dll
+D:\New folder\DemoApiDotNet.Api\DemoApiDotNet.Domain\bin\Debug\net6.0\DemoApiDotNet.Domain.pdb
+D:\New folder\DemoApiDotNet.Api\DemoApiDotNet.Domain\obj\Debug\net6.0\DemoApiDotNet.Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\New folder\DemoApiDotNet.Api\DemoApiDotNet.Domain\obj\Debug\net6.0\DemoApiDotNet.Domain.AssemblyInfoInputs.cache
+D:\New folder\DemoApiDotNet.Api\DemoApiDotNet.Domain\obj\Debug\net6.0\DemoApiDotNet.Domain.AssemblyInfo.cs
+D:\New folder\DemoApiDotNet.Api\DemoApiDotNet.Domain\obj\Debug\net6.0\DemoApiDotNet.Domain.csproj.CoreCompileInputs.cache
+D:\New folder\DemoApiDotNet.Api\DemoApiDotNet.Domain\obj\Debug\net6.0\DemoApiDotNet.Domain.dll
+D:\New folder\DemoApiDotNet.Api\DemoApiDotNet.Domain\obj\Debug\net6.0\refint\DemoApiDotNet.Domain.dll
+D:\New folder\DemoApiDotNet.Api\DemoApiDotNet.Domain\obj\Debug\net6.0\DemoApiDotNet.Domain.pdb
+D:\New folder\DemoApiDotNet.Api\DemoApiDotNet.Domain\obj\Debug\net6.0\ref\DemoApiDotNet.Domain.dll
